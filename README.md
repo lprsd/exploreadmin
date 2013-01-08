@@ -1,0 +1,1 @@
+This is a repo to try various third party apps on the django admin and to try some of the techniques to use with it.
